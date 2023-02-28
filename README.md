@@ -26,6 +26,9 @@ After this is done, you are almost good to go you just need to run the requireme
 ```
 pip install -r requirement.txt
 ```
+```
+./set-token
+```
 and then execute the main.py.
 
 
