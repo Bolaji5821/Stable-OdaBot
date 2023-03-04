@@ -1,7 +1,7 @@
 OdaAnime TelegramChatbot
 Developed by [Oyedele Bolaji]
 
-This Chatbot for Telegram that can generate Images using a prompt from the User and sends back the generated Image.
+This is a Chatbot for Telegram that can generate Images using a prompt from the User and sends back the generated Image.
 
 Implemented Commands
 
@@ -26,6 +26,7 @@ After this is done, you are almost good to go you just need to run the requireme
 ```
 pip install -r requirement.txt
 ```
+Open the executable file called set-token and replace the token with your replicate api token. Then run it to set the token with
 ```
 ./set-token
 ```
