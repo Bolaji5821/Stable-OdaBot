@@ -1,13 +1,13 @@
 OdaAnime TelegramChatbot
 Developed by [Oyedele Bolaji]
 
-This is a Chatbot for Telegram that can generate Images using a prompt from the User and sends back the generated Image.
+This is a Chatbot for Telegram that can generate Images using  stabble diffusion api with a prompt from the User and sends back the generated Image to the chat.
 
 Implemented Commands
 
 Command	Description
 /start	Does nothing special just writes a welcoming message to the user.
-/generate	Generates an image according to what was entered behind the command. For example "/generate Van Gogh playing american football".
+/generate Generates an image according to what was entered behind the command. For example "/generate Van Gogh playing american football".
 /help	Shows a small informational text about how /generate works.
 Setup
 For the Bot we need two Tokens which are simple to get but you need a github account for one of them.
